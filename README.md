@@ -7,10 +7,10 @@ An image depicting a world dominated by machines
 where robots of various types inhabit a city interlaced with circuits
 all orchestrated towards galactic domination through a Dyson sphere.
 
-# Instrucciones:
+# Instrucciones: (Entornos Linux)
 
 - Instalar Apache 2
-- Instalar PHP 7 o superior
+- Instalar PHP 7 o Posterior
 
 Clonar el presente repositorio a la carpeta:
 /var/www/html
